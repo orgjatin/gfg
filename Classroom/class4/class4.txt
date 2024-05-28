@@ -1,0 +1,15 @@
+1 font weight = 100-900
+400 is normal
+
+2. css frameworks
+bootstrap :- https://getbootstrap.com/
+https://materializecss.com/
+https://bulma.io/
+https://semantic-ui.com/
+
+3. types
+layout -> (flex,grids), components -> (button,navbar) , utilities -> (display)
+
+
+classwork 
+moutain website

@@ -1,0 +1,12 @@
+1. img, audio and video
+2. attribute of audio and video are boolean, either true or false.
+3. need only to set either height or width attribute to avoid image or video getting worst.
+4. <iframe width="560" height="315" src="https://www.youtube.com/embed/JHUYZVfWVF8?si=aYycp2j8GiLXwIbU" title="YouTube video player" frameborder="0"></iframe>
+5. video can have multiple sources according to the extension .mp4, webp.
+6. html entities $name;
+7. css propertyName : propertyValue;
+8. inline, internal and external css.
+9. css selectors (element,id, class, universal, descendent, nth-of-type, pseudo selector & pseudo class).
+10. camel myFirstName, snake my_first_name and kebab case my-first-name.
+11. inherit
+12. the selectors that are highly targeted have high priority.

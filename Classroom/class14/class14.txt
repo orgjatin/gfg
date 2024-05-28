@@ -1,0 +1,30 @@
+tvmaze //shows api
+
+ratelimit techniques
+
+Nodejs
+
+chrome -> v8 engine
+edge -> chakra
+firefox -> spidermonkey
+
+/////////////////////////////////////////////
+electronjs
+
+nodejs
+-create server
+-command line
+-native desktop/mobile apps
+-use in devices cpu
+
+Global
+
+Node raple
+
+Math.cbrt
+Math.sqrt
+
+node file system docs
+
+
+

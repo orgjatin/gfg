@@ -1,0 +1,17 @@
+1. html does not have logics and programs.
+2. building blocks (html), styling (css) and logics (js).
+3. hyper text markup language.
+4. html is case in sensitive.
+How did HTML get created?
+In 1980, physicist Tim Berners-Lee, a contractor at CERN, proposed and prototyped ENQUIRE, a system for CERN researchers to use and share documents. In 1989, Berners-Lee wrote a memo proposing an Internet-based hypertext system. Berners-Lee specified HTML and wrote the browser and server software in late 1990.
+
+4. Attributes (key value pair) ex:- attr_name = lang (lang="en")
+5. utf -8  Unicode Transformation Format 8 bit
+6. meta ( data about data )
+7. em and i tag difference?
+8. ol?
+9. div is block element and span is inline element.
+10. table?
+11. semantic tags
+12. main tag contains dominating contents
+

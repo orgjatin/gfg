@@ -1,0 +1,35 @@
+javascript
+
+single threaded, synchronous language
+
+web api
+
+event loop
+
+queue
+
+synchronous 
+
+Asynchronous
+
+call back queue
+
+call back functions problem :- call back hell, trust issues, inversion of control. Promises introduced
+
+Starvation of call back queue
+
+Promise :- future events
+
+new Promise((resolve,reject)=>{
+});
+
+state : pending
+value : undefined
+
+state change
+
+.then
+.catch
+.finally
+
+

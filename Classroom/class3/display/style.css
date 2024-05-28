@@ -1,0 +1,19 @@
+h3{
+    border: 2px solid yellow;
+    background-color: blueviolet;
+    display: none;
+    height: 400px;
+    width: 200px;
+
+    
+}
+
+span  {
+    display: block;
+    border: 5px solid brown;
+    background-color: aqua;
+    height: 400px;
+    width: 200px;
+    margin: 40px auto;
+    padding: 50px auto;
+}

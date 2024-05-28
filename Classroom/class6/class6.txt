@@ -1,0 +1,75 @@
+String Methods
+
+Number.MAX_SAFE_INTEGER
+Number.MIN_SAFE_INTEGER
+
+str.METHODNAME();
+
+1.Two types of methods
+destructive 
+
+non-destructive :- does not change the actual value
+
+.toUpperCase
+.toLowerCase
+.toStartsWith
+.toEndsWith
+.toIndexOf
+.toLastIndexOf
+.trim
+
+2. as soon as final result of a logical expression is known execution stops
+result of logical operation is always boolean
+
+3.  in single line for multiple statements ; is mandatory
+
+4. for(initialize;conditioncheck;updation){
+		block
+}
+
+5. homework while and do while loop ?
+
+6. array
+
+ds
+linear ds
+ordered collections of data
+
+Start (unshift(),shift()), End (push(),pop())
+
+splice(index,count,addElements);
+
+7. const names = ["hi", "his"]; iterable object
+   name = iterator
+
+for(name of names){
+}
+
+8. console.log(`hello ${name}`);
+
+9. Iterators and generators advance js learning.
+
+10. Objects
+
+ds
+collection of properties(key->value) pairs
+
+ABC['name']
+
+abc.city = "delhi"
+
+10. for in loops
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+
+
+
+
+
+
+
+
+
+
+
+

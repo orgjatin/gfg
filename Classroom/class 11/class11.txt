@@ -1,0 +1,43 @@
+The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
+
+can await a promise returning function
+
+async await
+
+document object model
+
+-> object representation of webpage
+two step
+select the element then manipulate 
+
+getElementById()
+getElementByClassName()
+getElementByTagName()
+querySelector()
+querySelectorAll()
+
+
+nth-of-type
+
+
+text properties
+
+innerText -> awair of the style of the text
+
+textContent -> not awair of the styling
+
+innerHTML -> all text including html tags
+
+
+classList.add('movie') -> can be used to add external css class 
+classList.remove('movie') -> remove class
+.toggle('movie')  if available then remove, not then added
+
+
+
+
+
+
+
+
+

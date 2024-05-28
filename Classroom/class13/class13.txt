@@ -1,0 +1,72 @@
+dom
+
+select and manipulate
+
+classlist.add(),remove(),toggle(),contains()
+
+.getAttribute()
+.setAttribute('property','value');
+
+
+traversing a dom tree .parentElement
+
+parent -> child tavel .children
+
+sibling .nextElementSibling
+.previousElementSibling
+
+
+creating and deleting new elements
+
+.createElement('img') //new tag img created
+
+.appendChild
+
+.append // can add text as well as tags
+
+.removeChild // need to add parent then can remove child
+
+.remove() 
+
+math.floor(math.random()*10+1);// can generate to 1 to 10 Numbers
+
+events
+click
+
+addEventListener('click',function);
+mouseEnter
+mouseLeave
+
+//ratelimit techniques
+debouncing
+throttling
+
+//form events
+
+preventDefault();
+
+.elements[0].value
+
+keycode, which
+enter =13
+
+event life cycle
+
+events capturing->target->bubbling
+
+tsd
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Ajax
+asynchrounous javascript and xml
+technique to fetch data without refreshing
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+/* universal selector */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* descendent selector */
+
+div section p{
+    color:black;
+}
+
+/* pseudo selector */
+
+#special:hover{
+    border-radius: 20px;
+
+}
+
+input:visited{
+    color:green;
+}
+
+section p:nth-of-type(1){
+    /* position */
+}
+
+section p:nth-of-type(2n+2){
+    /* space of 2 and start from 2 */
+}
+
+section p:nth-of-type(odd or even){
+    /*  */
+}
+

@@ -1,0 +1,24 @@
+Notes
+
+Box model
+1. box can have dimensions, borders, margin and padding.
+2. units in css :- abosolute (px,in) and relative units (% ,em, rem, vh, vw).
+3. inline h and w are not respected, margin and padding.
+4. block all h, w, mar, pad are respected.
+5. bydefault algin-item are stretched.
+6. flex css tricks.
+
+
+
+
+
+
+
+
+Need to learn
+1. box sizing.
+2. positions.
+3. background.
+4. border.
+5. font properties- google fonts.
+6. transitions

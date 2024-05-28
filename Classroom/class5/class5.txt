@@ -1,0 +1,6 @@
+1. JavaScript was invented by Brendan Eich in 1995.
+2. v8 js engine in google chrome.
+3. Console REPL -> read evaluate print loop.
+4. primitive (no further can break) like number, boolean, null, undefined.
+5. js is more interpreted low compiled and jit just in time compilation
+6. \ is used for escape character.

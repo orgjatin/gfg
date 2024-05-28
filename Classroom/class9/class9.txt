@@ -1,0 +1,67 @@
+function deep dive
+
+js engine
+
+1. Memory creation phase
+2. Code execution phase
+global execution constext
+
+global scope :- outside a function
+
+
+hoisting :- variable or function can be accessed before declaration
+
+Temporal dead zone :- a zone before declaring with let or const.
+
+
+-> Scopes and Scope chain
+global,functional,block,script scope.
+
+let and const have script and block and functional scope
+
+var have global and functional scope.
+
+Scope resolution:-
+scope -> lexical environment (physical position)
+scope chain
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Class
+
+GET, SET, Static
+
+class Car{
+	
+	constructor(name,price){
+this.name = name;
+this.price = price;
+}
+
+startCar(){  //METHOD
+console.log(`Starting the car car ${this.name} `);
+}
+
+supercar class extend car{
+constructor(name,price,speed){
+super(name,price)
+this.speed= speed;
+}
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
